@@ -1,2 +1,2 @@
 #Presentation
-[Music Piracy](https://cdn.rawgit.com/nikki-luoma/fs102Spring2017-piracy/master/piracy.html).
+[Music Piracy](file:///home/l/luoman/fs102s2017/fs102Spring2017-piracy-Nikki-Luoma/fs102Spring2017-piracy-Nikki-Luoma/piracy.html).
